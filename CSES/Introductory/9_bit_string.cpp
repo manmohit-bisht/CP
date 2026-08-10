@@ -26,6 +26,5 @@ int main()
         exp /= 2;
     }
     cout << res << "\n";
-
     return 0;
 }
