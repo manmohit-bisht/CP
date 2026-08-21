@@ -1,3 +1,6 @@
+// print all even from 2 to n than all odd from 1 to n (or vice versa but it wouldn't work for n=4)
+// if n==1 it's the only solution
+// no solution is present if n<=3
 #include <bits/stdc++.h>
 using namespace std;
 void printEven(int n)

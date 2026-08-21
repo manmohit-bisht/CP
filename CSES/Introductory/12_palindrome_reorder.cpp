@@ -1,3 +1,8 @@
+/*
+in every palindrome only 1 odd frequency of a char can be present
+create a frequency map and start adding same chars to left++ and right
+if a single off frequency is present it's always going to be in the middle
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
